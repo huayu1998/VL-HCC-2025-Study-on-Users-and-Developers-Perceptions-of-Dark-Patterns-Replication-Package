@@ -9,7 +9,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 **Coding_Scripts**
 1. The folder contains the Python scripts used to collect and preprocess DP and non-DP related to GitHub data for further sentiment analysis.
 2. The ``dp_filter.py`` file is used to collect the review comments based on the URLs and filter the DP, non-DP, and non-English issues.
-3. The ``dp_github_search.csv`` file collects information on DP-related issues, including title, body, and comments based on *page numbers*.
+3. The ``dp_github_search.py`` file collects information on DP-related issues, including title, body, and comments based on *page numbers*.
 4. The ``dp_json_to_csv.py`` file collects information on DP-related issues, including URL, title, html_url, body, created_at, updated_at, state, and comments based on *time range*.
 5. The ``preprocess_dp.py`` file preprocess the raw data and run the sentiment analysis on the cleaned data
 
