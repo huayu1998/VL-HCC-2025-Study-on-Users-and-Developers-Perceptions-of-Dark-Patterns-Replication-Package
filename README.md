@@ -21,7 +21,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 5. The ``dp_comments.csv`` file contains DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
 6. The ``non_dp_title.csv`` file contains non-DP-related Github issues' data and analysis, including URL, title, html_url, and sentiment analysis results for title message using SentiStrength-SE and DEVA.
 4. The ``non_dp_body.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body messages using SentiStrength-SE and DEVA.
-5. The ``non_dp_comment.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
+5. The ``non_dp_comments.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
 
 **Surveys**
 1. This directory contains a copy of the user and developer surveys distributed to end users and OSS developers to further explore their perceptions of dark patterns.
