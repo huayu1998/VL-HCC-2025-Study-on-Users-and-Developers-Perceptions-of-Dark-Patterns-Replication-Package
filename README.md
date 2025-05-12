@@ -16,11 +16,11 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 **GitHub_Sentiment_Analysis**
 1. The folder contains the original dark patterns GitHub issues search result file and corresponding sentiment analysis results for the title, body, and review comments.
 2. The ``original_dp_issues.csv`` file contains the original non-preprocessed html_url, title, body, created_at, updated_at, state, and comments of the DP and non-DP issues based on the issue's URLs.
-3. The ``dp_title.csv`` file contains DP-related Github issues' data and analysis, including URL, title, html_url, and sentiment analysis results for title using SentiStrength-SE and DEVA.
-4. The ``dp_body.csv`` file contains DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body using SentiStrength-SE and DEVA.
+3. The ``dp_title.csv`` file contains DP-related Github issues' data and analysis, including URL, title, html_url, and sentiment analysis results for title message using SentiStrength-SE and DEVA.
+4. The ``dp_body.csv`` file contains DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body messages using SentiStrength-SE and DEVA.
 5. The ``dp_comments.csv`` file contains DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
-6. The ``non_dp_title.csv`` file contains non-DP-related Github issues' data and analysis, including URL, title, html_url, and sentiment analysis results for title using SentiStrength-SE and DEVA.
-4. The ``non_dp_body.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body using SentiStrength-SE and DEVA.
+6. The ``non_dp_title.csv`` file contains non-DP-related Github issues' data and analysis, including URL, title, html_url, and sentiment analysis results for title message using SentiStrength-SE and DEVA.
+4. The ``non_dp_body.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body messages using SentiStrength-SE and DEVA.
 5. The ``non_dp_comment.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
 
 **Surveys**
