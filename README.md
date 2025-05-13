@@ -25,5 +25,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 
 **Surveys**
 1. This directory contains a copy of the user and developer surveys distributed to end users and OSS developers to further explore their perceptions of dark patterns.
-2. The ``Developer_Survey_Dark_Pattern.pdf`` contains full details of the developer survey.
 3. The ``User_Survey_Dark_Pattern.pdf`` contains full details of the end-user survey.
+4. The ``User_Survey_Results.csv`` contains the original responses from user group participants, open coding, and sentiment analysis results.
+6. The ``Developer_Survey_Dark_Pattern.pdf`` contains full details of the developer survey.
+7. The ``Developer_Survey_Results.csv`` contains the original responses from developer group participants, open coding, and sentiment analysis results.
