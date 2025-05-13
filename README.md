@@ -4,7 +4,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 
 ## Description of the folder contents in this repository:
 
-*Note:* DP refers to Dark Patterns &amp; non-DP refers to Non Dark Patterns.
+**Note:** DP refers to Dark Patterns &amp; non-DP refers to Non Dark Patterns.
 
 **Coding_Scripts**
 1. The folder contains the Python scripts used to collect and preprocess DP and non-DP related to GitHub data for further sentiment analysis.
