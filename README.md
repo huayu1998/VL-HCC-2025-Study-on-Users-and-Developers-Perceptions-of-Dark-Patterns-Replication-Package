@@ -23,6 +23,9 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 4. The ``non_dp_body.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for body messages using SentiStrength-SE and DEVA.
 5. The ``non_dp_comments.csv`` file contains non-DP-related Github issues' data and analysis, including URL, body, html_url, and sentiment analysis results for review comments using SentiStrength-SE and DEVA.
 
+**GitHub_Thematic_Analysis**
+1. The folder contains the file ``DP_issues_thematic.csv`` that contains the open coding and thematic analysis results for the original GitHub issues content.
+
 **Surveys**
 1. This directory contains a copy of the user and developer surveys distributed to end users and OSS developers to further explore their perceptions of dark patterns.
 3. The ``User_Survey_Dark_Pattern.pdf`` contains full details of the end-user survey.
