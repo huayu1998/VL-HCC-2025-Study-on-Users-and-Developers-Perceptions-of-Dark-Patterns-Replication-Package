@@ -36,3 +36,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 4. The ``User_Survey_Results.csv`` contains the original responses from user group participants, open coding, and sentiment analysis results.
 6. The ``Developer_Survey_Dark_Pattern.pdf`` contains full details of the developer survey.
 7. The ``Developer_Survey_Results.csv`` contains the original responses from developer group participants, open coding, and sentiment analysis results.
+8. 
+
+## Reference
+[1] C. M. Gray, Y. Kou, B. Battles, J. Hoggatt, and A. L. Toombs, “The dark (patterns) side of ux design,” in Proceedings of the 2018 CHI conference on human factors in computing systems, 2018, pp. 1–14.
