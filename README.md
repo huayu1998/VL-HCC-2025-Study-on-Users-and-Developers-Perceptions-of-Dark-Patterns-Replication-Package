@@ -2,6 +2,10 @@
 
 Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and data analysis to understand the user's and developers' perceptions of Dark Patterns in Online Environments and Software Development
 
+## Description of the Five Dark Pattern Strategies derived from Gray et al. [1]:
+
+![Alt text](figures/five_strategies.png)
+
 ## Description of the folder contents in this repository:
 
 **Note:** DP refers to Dark Patterns &amp; non-DP refers to Non Dark Patterns.
