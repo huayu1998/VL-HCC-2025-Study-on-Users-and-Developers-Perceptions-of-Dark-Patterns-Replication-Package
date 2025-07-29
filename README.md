@@ -4,7 +4,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 
 ## Description of the Five Dark Pattern Strategies derived from Gray et al. [1]:
 
-![Alt text](figures/five_strategies.png)
+![Five Dark Pattern Strategies](Figures/five_strategies.png)
 
 ## Description of the folder contents in this repository:
 
