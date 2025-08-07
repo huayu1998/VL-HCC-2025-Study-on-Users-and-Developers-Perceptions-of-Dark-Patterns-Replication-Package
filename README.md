@@ -6,7 +6,7 @@ Python scripts to collect the Dark Patterns data on GitHub &amp; Data files and 
 
 ![Five Dark Pattern Strategies](Figures/five_strategies.png)
 
-**Note:** An expanded list of patterns with clearer definitions is available [here](https://your-link.com) to support future studies with a wider range of examples.
+**Note:** An expanded list of patterns with clearer definitions is available [here]([https://your-link.com](https://github.com/huayu1998/VL-HCC-2025-Study-on-Users-and-Developers-Perceptions-of-Dark-Patterns-Replication-Package/blob/main/Figures/expand_version_dp.png)) to support future studies with a wider range of examples. 
 
 ## Description of the folder contents in this repository:
 
